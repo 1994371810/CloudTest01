@@ -1,8 +1,6 @@
 spring:
   profiles:
     active: dev
-
-
 ---
 spring:
   profiles: dev
@@ -10,8 +8,6 @@ spring:
     name: server
 server:
   port: 8010
-
-
 ---
 spring:
   profiles: test
