@@ -2,4 +2,4 @@ spring:
   application:
     name: serverName
 server:
-  port: 8024
+  port: 8044
