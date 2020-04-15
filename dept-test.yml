@@ -2,4 +2,4 @@ spring:
   application:
     name: server
 server:
-  port: 7020
+  port: 7030
