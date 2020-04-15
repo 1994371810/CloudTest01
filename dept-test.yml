@@ -2,5 +2,16 @@ spring:
   application:
     name: server
 server:
-  port: 7030
+  port: 7020
   aa: 14785252
+
+
+
+
+
+
+
+
+
+
+
