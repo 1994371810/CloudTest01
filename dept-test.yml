@@ -3,4 +3,4 @@ spring:
     name: server
 server:
   port: 7030
-  aa: 147
+  aa: aa11bbcc
