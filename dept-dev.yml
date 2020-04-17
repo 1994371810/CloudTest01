@@ -3,3 +3,6 @@ spring:
     name: serverName
 server:
   port: 8044
+config:
+  info: hello version-1
+
