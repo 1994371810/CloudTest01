@@ -4,5 +4,4 @@ spring:
 server:
   port: 8044
 config:
-  info: hello version-15
-
+  info: hello version-20
